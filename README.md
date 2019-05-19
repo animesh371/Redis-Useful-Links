@@ -27,4 +27,4 @@ Useful links to get started in Redis
 
 # Useful Books
 * [Redis in Action](https://www.goodreads.com/book/show/16033444-redis-in-action)
-* [Mastering Redis](https://www.goodreads.com/book/show/30514076-mastering-redis)
+* [Redis Essentials](https://www.goodreads.com/book/show/30514076-mastering-redis)
