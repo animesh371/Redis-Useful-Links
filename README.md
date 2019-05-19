@@ -24,3 +24,7 @@ Useful links to get started in Redis
 # Redis Clients
 * [Jedis](https://www.baeldung.com/jedis-java-redis-client-library)
 * [redis-py](https://pypi.org/project/redis/)
+
+# Useful Books
+* [Redis in Action](https://www.goodreads.com/book/show/16033444-redis-in-action)
+* [Mastering Redis](https://www.goodreads.com/book/show/30514076-mastering-redis)
